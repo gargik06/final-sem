@@ -1,0 +1,32 @@
+## **Installation and Configuration of Virtualization using KVM**
+
+### **Steps**
+
+1. **Check Virtualization Support**
+   Ensure that the system processor supports virtualization technology.
+
+2. **Install KVM Software**
+   Install the required KVM virtualization packages and tools in the operating system.
+
+3. **Enable Virtualization Services**
+   Start and enable the virtualization service required for running virtual machines.
+
+4. **Configure User Permissions**
+   Add the current user to the required virtualization groups so that the user can manage virtual machines.
+
+5. **Open Virtual Machine Manager**
+   Launch the Virtual Machine Manager tool used to create and manage virtual machines.
+
+6. **Create a New Virtual Machine**
+   Select the option to create a new VM and choose the operating system installation media (ISO file).
+
+7. **Allocate Resources**
+   Assign required resources such as **RAM, CPU, and disk space** for the virtual machine.
+
+8. **Install the Operating System**
+   Start the virtual machine and follow the installation steps of the selected operating system.
+
+9. **Run the Virtual Machine**
+   After installation, the virtual machine can be started and used like a normal computer.
+
+**KVM virtualization is successfully installed and configured.**
